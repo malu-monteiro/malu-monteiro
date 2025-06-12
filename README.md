@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, I'm Maria Luiza 👋
+[Read this in Portuguese](README.pt-BR.md)
 
-<!--
-**malu-monteiro/malu-monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love bringing ideas to life through real products and experiences. <br />
+My main tools: Figma, React, Next.js, Node.js, and TypeScript.
 
-Here are some ideas to get you started:
+- 🌱 Software Developer
+- 👩🏻‍💻 Currently working on a project called [`PetConnect`](https://github.com/malu-monteiro/petconnect-mobile)
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/m-monteiro/) or [Email](mailto:malumonteiro.dev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**
+
+![Skills](https://skills.syvixor.com/api/icons?i=figma,react,ts,nextjs,tailwind,nodejs,git,github,postgresql,prisma.docker,insomnia,jest,reactnative)
