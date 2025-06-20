@@ -5,7 +5,6 @@ Adoro transformar ideias em produtos e experiências reais. <br />
 Minhas principais ferramentas: Figma, React, Next.js, Node.js e TypeScript.
 
 - 🌱 Desenvolvedora de Software
-- 👩🏻‍💻 Atualmente trabalhando em um projeto chamado [`PetConnect`](https://github.com/malu-monteiro/petconnect-mobile)
 - 📫 Entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/m-monteiro/) ou por [Email](mailto:malumonteiro.dev@gmail.com)
 
 **Linguagens e ferramentas:**
