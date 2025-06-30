@@ -4,7 +4,7 @@
 I love bringing ideas to life through real products and experiences. <br />
 My main tools: Figma, React, Next.js, Node.js, and TypeScript.
 
-- 🌱 Software Developer
+- 🌱 FullStack Developer
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/m-monteiro/) or [Email](mailto:malumonteiro.dev@gmail.com)
 
 **Languages and Tools:**
