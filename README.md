@@ -1,5 +1,5 @@
 ## Hello, I'm Maria Luiza 👋
-[Read this in Portuguese](README.pt-BR.md)
+[Leia em Português](README.pt-BR.md)
 
 I love bringing ideas to life through real products and experiences. <br />
 My main tools: Figma, React, Next.js, Node.js, and TypeScript.
