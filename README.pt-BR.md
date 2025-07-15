@@ -1,5 +1,5 @@
 ## Olá, eu sou a Maria Luiza 👋
-[Leia em Inglês](README.md)
+[Read this in English](README.md)
 
 Adoro transformar ideias em produtos e experiências reais. <br />
 Minhas principais ferramentas: Figma, React, Next.js, Node.js e TypeScript.
