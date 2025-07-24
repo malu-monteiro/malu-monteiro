@@ -7,7 +7,7 @@ Minhas principais ferramentas: Figma, React, Next.js, Node.js e TypeScript.
 - 🌱 Desenvolvedora FullStack
 - 📫 Entre em contato comigo via [LinkedIn](https://www.linkedin.com/in/m-monteiro/) ou por [Email](mailto:malumonteiro.dev@gmail.com)
 
-**Linguagens e ferramentas:**
+**Linguagens e Ferramentas:**
 
 ![Habilidades](https://skills.syvixor.com/api/icons?i=figma,react,ts,nextjs,tailwind,nodejs,git,github,postgresql,prisma.docker,insomnia,jest,reactnative)
 
